@@ -35,12 +35,12 @@ Uma ferramenta profissional de explicação de código que ajuda desenvolvedores
 
 1. Clone o repositório:
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/LuanVitorino/Code-Translate
 ```
 
 2. Navegue até o diretório do projeto:
 ```bash
-cd explicador-de-codigo
+cd <project>
 ```
 
 3. Instale as dependências:
