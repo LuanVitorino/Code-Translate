@@ -6,7 +6,6 @@ Uma ferramenta profissional de explicação de código que ajuda desenvolvedores
 
 - Suporte para 10 linguagens de programação populares
 - Explicação de código baseada em IA
-- Detecção e destaque de erros
 - Formatação e indentação de código
 - Design elegante e minimalista
 - Máximo de 1000 linhas de código por análise
